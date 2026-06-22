@@ -1,0 +1,11 @@
+# 1. 기본 사칙연산 및 함수 정의 테스트
+def average(x, y) (x + y) * 0.5;
+
+# 2. 조건 분기(If/Then/Else) 및 비교 연산자 테스트
+def max(a, b) if a < b then b else a;
+
+# 3. 반복문(For/In) 제어 구조 테스트
+def 명칭(x) for i = 1, 10, 1 in x + i;
+
+# 4. 블록 기반 지역 변수(Var/In) 할당 테스트
+def testvar(x) var a = 5, b = 10 in x + a * b;
